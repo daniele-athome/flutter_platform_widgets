@@ -4,13 +4,13 @@
  * See LICENSE for distribution and usage details.
  */
 
-import 'package:flutter/cupertino.dart'
+import 'package:cupertino_ui/cupertino_ui.dart'
     show
         CupertinoButton,
         CupertinoButtonSize,
         CupertinoColors,
         CupertinoNavigationBar;
-import 'package:flutter/material.dart'
+import 'package:material_ui/material_ui.dart'
     show IconButton, VisualDensity, ButtonStyle;
 import 'package:flutter/widgets.dart';
 import 'package:flutter_platform_widgets/src/parent_widget_finder.dart';

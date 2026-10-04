@@ -6,7 +6,7 @@
 
 import 'dart:ui';
 
-import 'package:flutter/cupertino.dart'
+import 'package:cupertino_ui/cupertino_ui.dart'
     show
         CupertinoDynamicColor,
         CupertinoTheme,
@@ -14,7 +14,7 @@ import 'package:flutter/cupertino.dart'
         showCupertinoDialog,
         showCupertinoModalPopup;
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart'
+import 'package:material_ui/material_ui.dart'
     show Theme, ThemeData, Colors, showDialog, showModalBottomSheet;
 import 'package:flutter/widgets.dart';
 import 'package:flutter_platform_widgets/flutter_platform_widgets.dart';

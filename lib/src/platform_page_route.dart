@@ -4,8 +4,8 @@
  * See LICENSE for distribution and usage details.
  */
 
-import 'package:flutter/cupertino.dart' show CupertinoPageRoute;
-import 'package:flutter/material.dart' show MaterialPageRoute;
+import 'package:cupertino_ui/cupertino_ui.dart' show CupertinoPageRoute;
+import 'package:material_ui/material_ui.dart' show MaterialPageRoute;
 import 'package:flutter/widgets.dart'
     show
         PageRoute,

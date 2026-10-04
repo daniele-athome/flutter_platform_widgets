@@ -4,8 +4,8 @@
  * See LICENSE for distribution and usage details.
  */
 
-import 'package:flutter/cupertino.dart' show CupertinoScrollbar;
-import 'package:flutter/material.dart' show Scrollbar;
+import 'package:cupertino_ui/cupertino_ui.dart' show CupertinoScrollbar;
+import 'package:material_ui/material_ui.dart' show Scrollbar;
 import 'package:flutter/widgets.dart';
 
 import 'platform.dart';

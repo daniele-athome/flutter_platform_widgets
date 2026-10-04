@@ -4,8 +4,8 @@
  * See LICENSE for distribution and usage details.
  */
 
-import 'package:flutter/cupertino.dart' show CupertinoColors, CupertinoSlider;
-import 'package:flutter/material.dart'
+import 'package:cupertino_ui/cupertino_ui.dart' show CupertinoColors, CupertinoSlider;
+import 'package:material_ui/material_ui.dart'
     show SemanticFormatterCallback, Slider, SliderInteraction;
 import 'package:flutter/widgets.dart';
 

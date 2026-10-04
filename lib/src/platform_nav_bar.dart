@@ -4,8 +4,8 @@
  * See LICENSE for distribution and usage details.
  */
 
-import 'package:flutter/cupertino.dart' show CupertinoTabBar, CupertinoColors;
-import 'package:flutter/material.dart'
+import 'package:cupertino_ui/cupertino_ui.dart' show CupertinoTabBar, CupertinoColors;
+import 'package:material_ui/material_ui.dart'
     show
         BottomAppBar,
         BottomNavigationBar,

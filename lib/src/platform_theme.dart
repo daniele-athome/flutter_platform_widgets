@@ -1,5 +1,5 @@
-import 'package:flutter/cupertino.dart' show CupertinoThemeData;
-import 'package:flutter/material.dart' show Theme, ThemeData, ThemeMode;
+import 'package:cupertino_ui/cupertino_ui.dart' show CupertinoThemeData;
+import 'package:material_ui/material_ui.dart' show Theme, ThemeData, ThemeMode;
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
 
