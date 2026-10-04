@@ -1,3 +1,24 @@
+## flutter_platform_widgets fork
+
+This fork was created to address the discontinuation of the original flutter_platform_widgets package due to Flutter's decision to split out Material and Cupertino widgets into their own packages.
+The goal of this fork is to provide a simple upgrade path for people migrating to the `material_ui` and `cupertino_ui` packages.
+
+I won't provide any further updates or support for this fork. In fact, I'm planning to migrate to something else entirely.
+
+To use this fork in your app:
+
+```yaml
+dependencies:
+  flutter_platform_widgets:
+    git:
+      url: https://github.com/daniele-athome/flutter_platform_widgets.git
+      ref: master
+```
+
+Upstream README follows.
+
+---
+
 ## ⚠️ Package Discontinued
 
 Due to Flutter's decision to split out Material and Cupertino widgets into their own packages, this project is now no longer supported. 
